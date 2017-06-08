@@ -1,0 +1,9 @@
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\bin\Release\netcoreapp1.1\K8Workerino.deps.json
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\bin\Release\netcoreapp1.1\K8Workerino.runtimeconfig.json
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\bin\Release\netcoreapp1.1\K8Workerino.runtimeconfig.dev.json
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\bin\Release\netcoreapp1.1\K8Workerino.dll
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\bin\Release\netcoreapp1.1\K8Workerino.pdb
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\obj\Release\netcoreapp1.1\K8Workerino.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\obj\Release\netcoreapp1.1\K8Workerino.AssemblyInfo.cs
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\obj\Release\netcoreapp1.1\K8Workerino.dll
+C:\Users\Niki\Desktop\K8Workerino\K8Workerino\obj\Release\netcoreapp1.1\K8Workerino.pdb
