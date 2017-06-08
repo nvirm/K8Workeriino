@@ -12,4 +12,5 @@ Meant to be used as a nightly single-run (updating leaderboards).
 # Details
 Uses Given OWApi (https://github.com/SunDwarf/OWAPI) to fetch Overwatch competitive stats for users.
 Stores found data in K8Directoriino database.
-Project runs with .NET Core
+
+Project runs on .NET Core 1.1
