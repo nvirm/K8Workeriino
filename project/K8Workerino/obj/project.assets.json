@@ -8648,10 +8648,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Niki\\Documents\\GitHub\\K8Workeriino\\project\\K8Workerino\\K8Workerino.csproj",
+      "projectUniqueName": "C:\\Users\\Niki\\Desktop\\K8Workerino\\K8Workerino\\K8Workerino.csproj",
       "projectName": "K8Workerino",
-      "projectPath": "C:\\Users\\Niki\\Documents\\GitHub\\K8Workeriino\\project\\K8Workerino\\K8Workerino.csproj",
-      "outputPath": "C:\\Users\\Niki\\Documents\\GitHub\\K8Workeriino\\project\\K8Workerino\\obj\\",
+      "projectPath": "C:\\Users\\Niki\\Desktop\\K8Workerino\\K8Workerino\\K8Workerino.csproj",
+      "outputPath": "C:\\Users\\Niki\\Desktop\\K8Workerino\\K8Workerino\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
