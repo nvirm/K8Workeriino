@@ -1,3 +1,5 @@
+# STATUS: Not maintained
+
 # K8Workeriino
 ![alt text](https://github.com/kitsun8/K8Workeriino/blob/master/screenshots/workeriino.PNG)
 
